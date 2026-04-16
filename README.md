@@ -1,5 +1,8 @@
 # @vaultfire/enterprise
 
+
+> **⚠️ Alpha Software** — Vaultfire Protocol is in active development. Smart contracts are deployed on mainnet but have **not been formally audited** by a third-party security firm. The IAM adapters (Okta, Azure AD, OIDC) are reference implementations — validate thoroughly before use in production enterprise environments. Trust policies and scoring formulas may change. See [LICENSE](./LICENSE) for warranty disclaimers.
+
 > **Okta tells you WHO has access. Vaultfire tells you WHO is trustworthy.**
 
 Bridge enterprise IAM systems (Okta, Azure AD, generic OIDC) with Vaultfire's on-chain agent identity and trust infrastructure — enabling cross-organizational agent trust without a centralized broker.
