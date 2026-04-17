@@ -400,10 +400,10 @@ adapter.loadFromClaims([
 
 | Chain | Chain ID | Identity Registry | Partnership Bonds |
 |---|---|---|---|
-| **Base** | 8453 | [`0x35978DB...`](https://basescan.org/address/0x35978DB675576598F0781dA2133E94cdCf4858bC) | [`0xC574CF2...`](https://basescan.org/address/0xC574CF2a09B0B470933f0c6a3ef422e3fb25b4b4) |
-| **Avalanche** | 43114 | [`0x57741F4...`](https://snowtrace.io/address/0x57741F4116925341d8f7Eb3F381d98e07C73B4a3) | [`0xea6B504...`](https://snowtrace.io/address/0xea6B504827a746d781f867441364C7A732AA4b07) |
-| **Arbitrum** | 42161 | [`0x6298c62...`](https://arbiscan.io/address/0x6298c62FDA57276DC60de9E716fbBAc23d06D5F1) | [`0x0E77787...`](https://arbiscan.io/address/0x0E777878C5b5248E1b52b09Ab5cdEb2eD6e7Da58) |
-| **Polygon** | 137 | [`0x6298c62...`](https://polygonscan.com/address/0x6298c62FDA57276DC60de9E716fbBAc23d06D5F1) | [`0x0E77787...`](https://polygonscan.com/address/0x0E777878C5b5248E1b52b09Ab5cdEb2eD6e7Da58) |
+| **Base** | 8453 | [`0x35978DB...`](https://basescan.org/address/0x35978DB675576598F0781dA2133E94cdCf4858bC) | [`0xC574CF2...`](https://basescan.org/address/0x01C479F0c039fEC40c0Cf1c5C921bab457d57441) |
+| **Avalanche** | 43114 | [`0x57741F4...`](https://snowtrace.io/address/0x57741F4116925341d8f7Eb3F381d98e07C73B4a3) | [`0xea6B504...`](https://snowtrace.io/address/0xDC8447c66fE9D9c7D54607A98346A15324b7985D) |
+| **Arbitrum** | 42161 | [`0x6298c62...`](https://arbiscan.io/address/0x6298c62FDA57276DC60de9E716fbBAc23d06D5F1) | [`0x0E77787...`](https://arbiscan.io/address/0xdB54B8925664816187646174bdBb6Ac658A55a5F) |
+| **Polygon** | 137 | [`0x6298c62...`](https://polygonscan.com/address/0x6298c62FDA57276DC60de9E716fbBAc23d06D5F1) | [`0x0E77787...`](https://polygonscan.com/address/0x83dd216449B3F0574E39043ECFE275946fa492e9) |
 
 ---
 
